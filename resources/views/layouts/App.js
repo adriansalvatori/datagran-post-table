@@ -63,7 +63,7 @@ class App extends Component {
           <div className="hero-body">
             <div className="container">
               <h1 className="title is-1">This is a posts list</h1>
-              <p>This posts are fetched from https://jsonplaceholder.typicode.com</p>
+              <p>This post list is fetched from https://jsonplaceholder.typicode.com</p>
               <br/>
               <div className="columns">
                 <div className="column">
